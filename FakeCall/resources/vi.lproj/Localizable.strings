@@ -1,0 +1,75 @@
+"none" = "Không";
+"caution" = "Chú ý";
+"discard" = "Hủy";
+"discard.caution" = "Bạn có muốn hủy tất cả cài đặt";
+"start" = "Bắt đầu";
+"start_now" = "Bắt đầu";
+"cancel" = "Hủy";
+"save" = "Lưu";
+"done" = "Xong";
+
+"menu.new_call" = "Cuộc gọi mới";
+"menu.tutorial" = "Hướng dẫn";
+"menu.quick_call" = "Cuộc gọi nhanh";
+
+"header.caller_information" = "Thông tin người gọi";
+"header.advance_settings" = "Cài đặt nâng cao";
+"header.basic_settings" = "Cài đặt cơ bản";
+"header.more_settings" = "Cài đặt khác";
+
+"timer.start_after" = "Bắt đầu sau";
+"timer.ten_seconds" = "10 giây";
+"timer.thirty_seconds" = "30 giây";
+"timer.a_minute" = "1 phút";
+"timer.five_minutes" = "5 phút";
+"timer.ten_minutes" = "10 phút";
+
+"home.contact_description" = "Thông tin người gọi";
+"home.name_input_hint" = "Tên người gọi";
+"home.nnumber_input_hint" = "Số điện thoại";
+"home.advance_setting_des" = "Cài đặt nâng cao";
+
+"ringtone.name" = "Nhạc chuông";
+"ringtone.silent" = "Im lặng";
+"ringtone.vibration" = "Chỉ rung";
+"ringtone.sound_vibration" = "Nhạc và rung";
+"ringtone.default" = "Mặc định (Iphone Original)";
+"ringtone.fast_and_sad" = "Fast and sad";
+"ringtone.samsung" = "Samsung S20";
+"ringtone.mi" = "MI";
+"ringtone.tik" = "Tiktok";
+
+"wallpaper.name" = "Hình nền";
+
+"callerVoice.name" = "Âm người gọi";
+"callerVoice.women" = "Women";
+"callerVoice.man" = "Man";
+"callerVoice.child" = "Child";
+
+"contact.caller_name" = "Thông tin người gọi";
+"contact.caller_number" = "Số điện thoại";
+"contact.caution" = "*You just need input to one of name or number of caller.";
+"contact.caution2" = "Cài đặt người gọi trước khi bắt đầu";
+
+"enviroment.name" = "Môi trường";
+"enviroment.farmville" = "Farm Ville";
+"enviroment.street" = "Street";
+"enviroment.church" = "Church";
+"enviroment.beach" = "Beach";
+"enviroment.rain" = "Rain";
+"enviroment.contruction" = "Contruction";
+
+"calling.accept" = "Chấp nhận";
+"calling.decline" = "Từ chối";
+"calling.remind_me" = "nhắc sau";
+"calling.message" = "tin nhắn";
+"calling.mute" = "tắt âm";
+"calling.keypad" = "bàn phím";
+"calling.audio" = "audio";
+"calling.add_call" = "thêm cuộc gọi";
+"calling.facetime" = "FaceTime";
+"calling.contacts" = "contacts";
+
+"setting.triple_tap_to_cancel" = "Tap 3 lần vào màn hình chờ để hủy cuộc gọi giả";
+
+"setting.please_do_not_turn_off_screen" = "Please do not turn off scrren by press power button, just keep screen on or flip screen off!";

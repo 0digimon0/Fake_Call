@@ -1,0 +1,17 @@
+strings:
+  inputs: FakeCall/resources/en.lproj/Localizable.strings
+  outputs:
+    templateName: structured-swift4
+    output: FakeCall/resources/generated/Strings.swift
+    
+xcassets:
+  inputs: FakeCall/resources/Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: FakeCall/resources/generated/Assets.swift
+
+colors:
+    inputs: FakeCall/resources/colors.xml
+    outputs:
+        templateName: swift4
+        output: FakeCall/resources/generated/Colors.swift

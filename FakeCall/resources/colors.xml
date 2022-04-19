@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="SettingTitle">#000000</color>
+  <color name="SettingSelected">#FF6D00</color>
+  <color name="GroupSettingTitle">#757575</color>
+  <color name="BelowBackround">#e5e5e5</color>
+</resources>

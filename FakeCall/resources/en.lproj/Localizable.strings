@@ -1,0 +1,76 @@
+
+"none" = "None";
+"caution" = "Caution";
+"discard" = "Discard";
+"discard.caution" = "Do you want discard all setting";
+"start" = "Start";
+"start_now" = "Start now";
+"cancel" = "Cancel";
+"save" = "Save";
+"done" = "Done";
+
+"menu.new_call" = "New call";
+"menu.tutorial" = "Tutorial";
+"menu.quick_call" = "Quick call";
+
+"header.caller_information" = "Caller information";
+"header.advance_settings" = "Advance settings";
+"header.basic_settings" = "Basic settings";
+"header.more_settings" = "More settings";
+
+"timer.start_after" = "Start after";
+"timer.ten_seconds" = "10 seconds";
+"timer.thirty_seconds" = "30 seconds";
+"timer.a_minute" = "1 minute";
+"timer.five_minutes" = "5 minutes";
+"timer.ten_minutes" = "10 minutes";
+
+"home.contact_description" = "Contact information";
+"home.name_input_hint" = "Contact name";
+"home.nnumber_input_hint" = "Phone number";
+"home.advance_setting_des" = "Advance setting";
+
+"ringtone.name" = "Ringtone";
+"ringtone.silent" = "Silent";
+"ringtone.vibration" = "Only vibration";
+"ringtone.sound_vibration" = "Sound and Vibration";
+"ringtone.default" = "Default (Iphone Original)";
+"ringtone.fast_and_sad" = "Fast and sad";
+"ringtone.samsung" = "Samsung S20";
+"ringtone.mi" = "MI";
+"ringtone.tik" = "Tiktok";
+
+"wallpaper.name" = "Wallpaper";
+
+"callerVoice.name" = "Caller voice";
+"callerVoice.women" = "Women";
+"callerVoice.man" = "Man";
+"callerVoice.child" = "Child";
+
+"contact.caller_name" = "Caller name";
+"contact.caller_number" = "Caller number";
+"contact.caution" = "*You just need input to one of name or number of caller.";
+"contact.caution2" = "Please setting caller to start";
+
+"enviroment.name" = "Enviroment";
+"enviroment.farmville" = "Farm Ville";
+"enviroment.street" = "Street";
+"enviroment.church" = "Church";
+"enviroment.beach" = "Beach";
+"enviroment.rain" = "Rain";
+"enviroment.contruction" = "Contruction";
+
+"calling.accept" = "Accecpt";
+"calling.decline" = "Decline";
+"calling.remind_me" = "Remind Me";
+"calling.message" = "Message";
+"calling.mute" = "mute";
+"calling.keypad" = "keypad";
+"calling.audio" = "audio";
+"calling.add_call" = "add call";
+"calling.facetime" = "FaceTime";
+"calling.contacts" = "contacts";
+
+"setting.triple_tap_to_cancel" = "Triple tap on waiting screen to cancel fake call";
+
+"setting.please_do_not_turn_off_screen" = "Please do not turn off scrren by press power button, just keep screen on or flip screen off!";
